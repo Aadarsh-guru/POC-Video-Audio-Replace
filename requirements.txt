@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+google-cloud-speech
+google-cloud-texttospeech
+moviepy
+pydub
+librosa
+soundfile
+requests
